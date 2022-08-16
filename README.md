@@ -10,7 +10,7 @@ We are an ethical hacker, penetration testing, network security, and is an explo
 * ✉️  You can contact me at [wearesolutions9999@gmail.com](mailto:wearesolutions9999@gmail.com)
 * 🧠  I'm learning cyber security
 * 🤝  I'm open to collaborating on Advance Diploma In Information Security
-* ⚡  WE ARE SOLUTION OF ALL YOUR DIGI-PROBLEMS💻 MEET US WE ARE HACKERS
+* ⚡  WE ARE SOLUTION OF ALL YOUR DIGI-PROBLEMS💻 MEET US WE ARE ETHICAL HACKERS
 
 <a href="https://www.github.com/wearesolutions9999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wearesolutions9999?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
